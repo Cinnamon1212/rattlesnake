@@ -1,5 +1,5 @@
 # rattlesnake
-A remote administration tool created in Python. This was made for **educational** purposes only
+A remote administration tool created in Python, made for **educational** purposes only
 
 ## Features:
 
@@ -7,6 +7,8 @@ A remote administration tool created in Python. This was made for **educational*
 
 ![RCE Demo](https://github.com/Cinnamon1212/rattlesnake/blob/main/image/RCEDemo.png)
 
+### Priv esc
+![PrivEsc Demo](https://github.com/Cinnamon1212/rattlesnake/blob/main/image/PrivEsc.png)
 
 
 ## DISCLAIMER: THIS TOOL WAS CREATED FOR PENETRATION TESTERS, MALWARE ANALYSISTS AND CYBER SEC PROFESSIONALS. THIS TOOL IS ***NOT*** DESIGNED FOR MALICIOUS PURPOSES.  
