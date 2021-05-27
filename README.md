@@ -37,7 +37,7 @@ Target machine:
 ```
 python3 rattlesnake.py (attack ip) (attack port)
 ```
-Alternatively, you can hard code the IP and port (See rattlesnake.py) and base64 encode it (See calc.py and b64example.py)  
+Alternatively, you can hard code the IP and port (See rattlesnake.py) and base64 encode it (See calc.py and [b64encode.py](https://github.com/Cinnamon1212/rattlesnake/blob/main/examples/b64encode.py))  
 
 ## DISCLAIMER: THIS TOOL WAS CREATED FOR PENETRATION TESTERS, MALWARE ANALYSISTS AND CYBER SEC PROFESSIONALS. THIS TOOL IS ***NOT*** DESIGNED FOR MALICIOUS PURPOSES.  
 ### The creator is ***not*** responsible for any misuses  
