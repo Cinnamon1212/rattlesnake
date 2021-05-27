@@ -6,4 +6,5 @@
 ## Features:
 
 ### Command execution
-<img src="commandexecution.png", alt="RCE demo">
+
+![RCE Demo](https://github.com/Cinnamon1212/rattlesnake/blob/main/image/RCEDemo.png)
